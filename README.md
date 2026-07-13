@@ -2,7 +2,7 @@
 
 ### Développeur 
 
-Je combine le code et le design pour créer des interfaces web esthétiques, fluides et performantes. Mon objectif est de transformer des idées complexes en expériences utilisateur simples et mémorables.
+Passionné par le web, je suis un développeur axé sur le front-end avant tout. J'ai un faible pour GSAP, les animations web et les dernières innovations du secteur.
 
 ---
 
@@ -24,17 +24,12 @@ Je combine le code et le design pour créer des interfaces web esthétiques, flu
 
 ### Back-end
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
----
-
-## Mes Projets Phares
-
 
 ---
+
 
 ## 📬 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedinLink]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][EmailLink]
 
-[LinkedinLink]: https://linkedin.com/in/votre-profil
-[EmailLink]: mailto:votre.email@exemple.com
+[EmailLink]: mailto:theo.minger@gmail.com
