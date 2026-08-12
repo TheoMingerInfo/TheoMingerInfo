@@ -4,6 +4,7 @@
 
 Passionné par le web, je suis un développeur axé sur le front-end avant tout. J'ai un faible pour GSAP, les animations web et les dernières innovations du secteur.
 
+Mon Portofolio : https://theo-minger.ch/
 ---
 
 ## Tech Stack & Outils
