@@ -1,36 +1,70 @@
-# Salut, moi c'est Théo :hugs:
+<h1 align="center">Bienvenue sur mon profil GitHub</h1>
 
-### Développeur 
+<p align="center">
+🇫🇷 Je suis passionné par le web et les technologies front-end. Vous trouverez plus bas mes projets réalisés pendant mes études et à titre personnel.
+</p>
 
-Passionné par le web, je suis un développeur axé sur le front-end avant tout. J'ai un faible pour GSAP, les animations web et les dernières innovations du secteur.
+<p align="center">
+🇩🇪 Ich begeistere mich für das Web und Front-End-Technologien. Weiter unten finden Sie meine Projekte aus dem Studium sowie private Projekte.
+</p>
 
-Mon Portofolio : https://theo-minger.ch/
----
+<p align="center">
+🇬🇧 I am passionate about the web and front-end technologies. Below you will find the projects I built during my studies and on my own.
+</p>
 
-## Tech Stack & Outils
-
-### Développement
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Développement Web
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Front-end
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-93CF2B?style=for-the-badge&logo=greensock&logoColor=white)
-
-### Back-end
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
+<p align="center">
+  <a href="https://theo-minger.ch">🌐 theo-minger.ch</a>
+</p>
 
 ---
 
+<h3 align="center">Mes outils de design</h3>
 
-## 📬 Me contacter
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/figma" width="56" alt="Figma" title="Figma" />
+  <img src="https://iconic-api.onrender.com/dark/blender" width="56" alt="Blender" title="Blender" />
+  <img src="https://iconic-api.onrender.com/dark/ps" width="56" alt="Photoshop" title="Photoshop" />
+  <img src="https://iconic-api.onrender.com/dark/ai" width="56" alt="Illustrator" title="Illustrator" />
+  <img src="https://iconic-api.onrender.com/dark/ae" width="56" alt="After Effects" title="After Effects" />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][EmailLink]
+<h3 align="center">Mes stacks</h3>
 
-[EmailLink]: mailto:theo.minger@gmail.com
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/js" width="56" alt="JavaScript" title="JavaScript" />
+  <img src="https://iconic-api.onrender.com/dark/typescript" width="56" alt="TypeScript" title="TypeScript" />
+  <img src="https://iconic-api.onrender.com/dark/vue" width="56" alt="Vue.js" title="Vue.js" />
+  <img src="https://iconic-api.onrender.com/dark/laravel" width="56" alt="Laravel" title="Laravel" />
+  <img src="https://iconic-api.onrender.com/dark/nodejs" width="56" alt="Node.js" title="Node.js" />
+  <img src="https://iconic-api.onrender.com/dark/vite" width="56" alt="Vite" title="Vite" />
+  <img src="https://iconic-api.onrender.com/dark/csharp" width="56" alt="C#" title="C#" />
+  <img src="https://iconic-api.onrender.com/dark/rust" width="56" alt="Rust" title="Rust" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Adonis.js-5A45FF?style=for-the-badge" alt="Adonis.js" />
+</p>
+
+<h3 align="center">Mes librairies favorites</h3>
+
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/three-js" width="56" alt="Three.js" title="Three.js" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lenis-222222?style=for-the-badge" alt="Lenis" />
+  <img src="https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge" alt="Matter.js" />
+  <img src="https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge" alt="Pinia" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" alt="Axios" />
+</p>
+
+<h3 align="center">Mes outils de développement</h3>
+
+<p align="center">
+  <img src="https://iconic-api.onrender.com/dark/azure" width="56" alt="Azure" title="Azure" />
+  <img src="https://iconic-api.onrender.com/dark/docker" width="56" alt="Docker" title="Docker" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="56" alt="GitHub" title="GitHub" />
+  <img src="https://iconic-api.onrender.com/dark/git" width="56" alt="Git" title="Git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Infomaniak-0098FF?style=for-the-badge" alt="Infomaniak" />
+</p>
