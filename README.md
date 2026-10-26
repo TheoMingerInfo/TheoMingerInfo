@@ -23,9 +23,7 @@
 <p align="center">
   <img src="https://iconic-api.onrender.com/dark/figma" width="56" alt="Figma" title="Figma" />
   <img src="https://iconic-api.onrender.com/dark/blender" width="56" alt="Blender" title="Blender" />
-  <img src="https://iconic-api.onrender.com/dark/ps" width="56" alt="Photoshop" title="Photoshop" />
   <img src="https://iconic-api.onrender.com/dark/ai" width="56" alt="Illustrator" title="Illustrator" />
-  <img src="https://iconic-api.onrender.com/dark/ae" width="56" alt="After Effects" title="After Effects" />
 </p>
 
 <h3 align="center">Mes stacks</h3>
